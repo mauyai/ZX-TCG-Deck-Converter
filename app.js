@@ -885,7 +885,7 @@ function parseDeckFromHTML(htmlText) {
 
 function formatDeck(deck) {
   function formatSection(title, cards) {
-    if (!cards.length) return `${title}\n(なし)\n`;
+    if (!cards.length) return `${title}\n\n`;
     return (
       title + "\n" +
       cards.map(c => `${c.cardNo} ${c.count}`).join("\n") +
