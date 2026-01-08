@@ -1,3 +1,6 @@
+[English](README.md) | [日本語](README.ja.md) | [简体中文](README.cn.md) | [繁體中文](README.tw.md)
+
+
 # ZX TCG 牌组转换工具
 
 本工具用于从 [ZX TCG 官方网站](https://www.zxtcg.com/) 获取公开牌组，并将其转换为可用于 [Tabletop Simulator 模组]() 导入的卡牌列表。

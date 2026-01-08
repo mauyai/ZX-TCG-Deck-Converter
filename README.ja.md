@@ -1,3 +1,5 @@
+[English](README.md) | [日本語](README.ja.md) | [简体中文](README.cn.md) | [繁體中文](README.tw.md)
+
 # ZX TCG デッキ変換ツール
 
 このツールは [ZX TCG 公式サイト](https://www.zxtcg.com/) に公開されているデッキレシピを取得し、[Tabletop Simulator モッド]() にインポート可能なカードリストへ変換します。
