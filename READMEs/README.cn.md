@@ -1,5 +1,4 @@
-[English](README.md) | [日本語](README.ja.md) | [简体中文](README.cn.md) | [繁體中文](README.tw.md)
-
+[English](../README.md) | [日本語](README.ja.md) | [简体中文](README.cn.md) | [繁體中文](README.tw.md)
 
 # ZX TCG 牌组转换工具
 
