@@ -2,7 +2,7 @@
 
 # ZX TCG Deck Converter
 
-This tool fetches public decks from the [ZX TCG official website](https://www.zxtcg.com) and converts them into a card list for importing into a [Tabletop Simulator mod]().
+This tool fetches public decks from the [ZX TCG official website](https://www.zxtcg.com) and converts them into a card list for importing into a [Tabletop Simulator mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3642024821).
 
 Alternatively, you can copy the official pre-built deck lists from the `decks` folder for use (continuously updated).
 

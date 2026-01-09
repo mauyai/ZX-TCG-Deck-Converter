@@ -2,7 +2,7 @@
 
 # ZX TCG デッキ変換ツール
 
-このツールは [ZX TCG 公式サイト](https://www.zxtcg.com/) に公開されているデッキレシピを取得し、[Tabletop Simulator モッド]() にインポート可能なカードリストへ変換します。
+このツールは [ZX TCG 公式サイト](https://www.zxtcg.com/) に公開されているデッキレシピを取得し、[Tabletop Simulator モッド](https://steamcommunity.com/sharedfiles/filedetails/?id=3642024821) にインポート可能なカードリストへ変換します。
 
 あるいは`decks`フォルダから公式構築済みのデッキリストをコピーして使用できます（随時更新中）
 

@@ -2,7 +2,7 @@
 
 # ZX TCG 牌組轉換工具
 
-此工具用於從 [ZX TCG 官方網站](https://www.zxtcg.com/) 取得公開牌組並轉換為卡牌清單，用於 [Tabletop Simulator 模組]() 的牌組匯入。
+此工具用於從 [ZX TCG 官方網站](https://www.zxtcg.com/) 取得公開牌組並轉換為卡牌清單，用於 [Tabletop Simulator 模組](https://steamcommunity.com/sharedfiles/filedetails/?id=3642024821) 的牌組匯入。
 
 或者可從`decks`資料夾複製官方預組的牌組列表使用（持續更新中）。
 
