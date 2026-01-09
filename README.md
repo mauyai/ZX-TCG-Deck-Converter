@@ -4,6 +4,8 @@
 
 This tool fetches public decks from the [ZX TCG official website](https://www.zxtcg.com) and converts them into a card list for importing into a [Tabletop Simulator mod]().
 
+Alternatively, you can copy the official pre-built deck lists from the `decks` folder for use (continuously updated).
+
 ## How to Use
 
 1. Register an account on the [official website](https://www.zxtcg.com), then create a new deck from **"マイデッキ一覧 (My Deck List)"**.
